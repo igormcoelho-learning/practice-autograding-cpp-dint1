@@ -9,7 +9,7 @@ If you want to practice this activity, just follow this link: https://classroom.
 
 ## Anderson Dutra da Silva
 
-**TODO - Please put your name in this README**
+**Anderson Dutra da Silva**
 
 ## Problem Description
 
